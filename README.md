@@ -42,12 +42,24 @@ I use Claude, Freebuff and DeepSeek while I work. I still read what comes back a
 ### [OpenBeats](https://github.com/blsphmicwillow/OpenBeats)
 *An open-source beatmaking studio for Linux, Windows and macOS.*
 
-Channel rack, step sequencer, piano roll, playlist and mixer, running on a native Rust/CPAL engine with a React and Web Audio front end that still works in a browser. Latest release is [v1.1.0](https://github.com/blsphmicwillow/OpenBeats/releases/latest), under GPL-3.0.
+Channel rack, step sequencer, piano roll, playlist and mixer, running on a native Rust/CPAL engine with a React and Web Audio front end that still works in a browser.
+
+<p>
+  <img src="https://img.shields.io/github/v/release/blsphmicwillow/OpenBeats?label=release&style=flat&labelColor=1a0f1e&color=b48ab6&logo=github&logoColor=white" alt="Latest release" />
+  <img src="https://img.shields.io/github/stars/blsphmicwillow/OpenBeats?label=stars&style=flat&labelColor=1a0f1e&color=b48ab6&logo=github&logoColor=white" alt="Stars" />
+  <img src="https://img.shields.io/github/actions/workflow/status/blsphmicwillow/OpenBeats/release.yml?label=build&style=flat&labelColor=1a0f1e&color=b48ab6&logo=githubactions&logoColor=white" alt="Release build" />
+  <img src="https://img.shields.io/github/license/blsphmicwillow/OpenBeats?label=license&style=flat&labelColor=1a0f1e&color=b48ab6" alt="License" />
+</p>
 
 ### [ashesofmodernity.dev](https://github.com/blsphmicwillow/ashesofmodernity.dev)
 *My personal site.*
 
 Hand-written HTML and CSS on GitHub Pages. No framework, no build step, nothing between me and the page.
+
+<p>
+  <img src="https://img.shields.io/website?url=https%3A%2F%2Fashesofmodernity.dev&label=site&up_message=online&down_message=offline&style=flat&labelColor=1a0f1e&color=b48ab6&logo=firefoxbrowser&logoColor=white&cacheSeconds=1800" alt="Site status" />
+  <img src="https://img.shields.io/github/last-commit/blsphmicwillow/ashesofmodernity.dev?label=last%20commit&style=flat&labelColor=1a0f1e&color=b48ab6&logo=github&logoColor=white" alt="Last commit" />
+</p>
 
 <details>
 <summary>Three more, private for now</summary>
@@ -83,12 +95,14 @@ Guitar, AESPA, cars, animals, comics, and more open papers than I will ever fini
 ## On GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=blsphmicwillow&show_icons=true&hide_border=true&include_all_commits=true&title_color=b48ab6&icon_color=b48ab6&text_color=c9bfcb&bg_color=0e0a10" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blsphmicwillow&layout=compact&hide_border=true&title_color=b48ab6&text_color=c9bfcb&bg_color=0e0a10" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/blsphmicwillow/blsphmicwillow/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=blsphmicwillow&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=b48ab6&icon_color=b48ab6&text_color=c9bfcb" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=blsphmicwillow&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=b48ab6&icon_color=b48ab6&text_color=514b56" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=blsphmicwillow&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=b48ab6&text_color=c9bfcb" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blsphmicwillow&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=b48ab6&text_color=514b56" alt="Top languages" />
+  </picture>
 </p>
 
 ---
