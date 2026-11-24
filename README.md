@@ -20,19 +20,35 @@ Arch has been my main system since September 2025. zsh in kitty, and the editor 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,lua,c,cpp" alt="TypeScript, JavaScript, Python, Lua, C, C++" />
+  <br />
+  <sub><i>languages</i></sub>
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,vite,tauri,rust,sqlite" alt="React, Node.js, Vite, Tauri, Rust, SQLite" />
+  <br />
+  <sub><i>web and desktop</i></sub>
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=arch,linux,bash,git,github,docker,cmake" alt="Arch, Linux, Bash, Git, GitHub, Docker, CMake" />
+  <br />
+  <sub><i>system and tooling</i></sub>
 </p>
 
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vscodium,vim,neovim,kitty" height="44" alt="VSCodium, Vim, Neovim, kitty" />
   <img src="https://img.shields.io/badge/zsh-b48ab6?style=flat" height="26" alt="zsh" />
+  <br />
+  <sub><i>editors and terminal</i></sub>
 </p>
 
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=claude" height="40" alt="Claude" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=deepseek" height="40" alt="DeepSeek" />
   <img src="https://img.shields.io/badge/Freebuff-1a0f1e?style=flat&logoColor=d8b8da" height="24" alt="Freebuff" />
+  <br />
+  <sub><i>with AI in the loop</i></sub>
 </p>
 
 I use Claude, Freebuff and DeepSeek while I work. I still read what comes back and change most of it. Anything in a repo here has been run, broken at least once, and fixed before it went up.
