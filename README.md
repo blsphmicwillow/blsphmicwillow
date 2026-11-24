@@ -70,7 +70,7 @@ Channel rack, step sequencer, piano roll, playlist and mixer, running on a nativ
 ### [ashesofmodernity.dev](https://github.com/blsphmicwillow/ashesofmodernity.dev)
 *My personal site.*
 
-Hand-written HTML and CSS on GitHub Pages.
+HTML and CSS on GitHub Pages.
 
 <p>
   <img src="https://img.shields.io/website?url=https%3A%2F%2Fashesofmodernity.dev&label=site&up_message=online&down_message=offline&style=flat&labelColor=1a0f1e&color=b48ab6&logo=firefoxbrowser&logoColor=white&cacheSeconds=1800" alt="Site status" />
