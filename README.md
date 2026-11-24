@@ -2,23 +2,38 @@
 
 <h1>⚸ Willow ⛧</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1600&color=B48AB6&center=true&vCenter=true&width=460&height=70&lines=techno-anarchist" alt="techno-anarchist" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1400&color=B48AB6&center=true&vCenter=true&width=580&height=64&lines=Techno-Anarchist;Socialising+Computer+Science;Biology+nerd" alt="Techno-Anarchist, Socialising Computer Science, Biology nerd" />
 
-<sub><a href="https://ashesofmodernity.dev">ashesofmodernity.dev</a></sub>
+<sub>systems tinkerer, science nerd, open source by default</sub>
+
+<p>
+  <a href="https://ashesofmodernity.dev"><img src="https://img.shields.io/badge/ashesofmodernity.dev-1a0f1e?style=flat&logo=firefoxbrowser&logoColor=d8b8da" alt="ashesofmodernity.dev" /></a>
+  <a href="https://bsky.app/profile/blsphmicwillow.satan.social"><img src="https://img.shields.io/badge/Bluesky-1a0f1e?style=flat&logo=bluesky&logoColor=d8b8da" alt="Bluesky" /></a>
+  <a href="https://github.com/blsphmicwillow/OpenBeats/releases/latest"><img src="https://img.shields.io/github/v/release/blsphmicwillow/OpenBeats?style=flat&label=OpenBeats&color=b48ab6" alt="OpenBeats release" /></a>
+</p>
 
 </div>
 
-```console
-willow@ashesofmodernity:~$ whoami
-science nerd moving into computer science: operating systems, systems
-programming and open source. i build the tools i want to use, then ship them.
+## quick facts
 
-willow@ashesofmodernity:~$ ls ~/stack
-languages/   TypeScript  JavaScript  Python  Lua  C  C++
-build/       React  Node  Vite  Tauri  Rust  SQLite
-system/      Linux (Arch)  Bash  CMake  Docker  GitHub Actions
-pairing/     Claude  Freebuff  DeepSeek
-```
+| | |
+| :-- | :-- |
+| **os** | Arch Linux, daily driver since September 2025 |
+| **shell** | zsh |
+| **terminal** | kitty |
+| **editors** | VSCodium, Neovim, Vim |
+| **write** | TypeScript, JavaScript, Python, Lua, C, C++ |
+| **read** | biology, philosophy, Nietzsche, comics |
+| **speak** | Portuguese, English, French |
+| **site** | [ashesofmodernity.dev](https://ashesofmodernity.dev) |
+
+## about
+
+**Biology nerd first.** I spend my free time researching science and religion, arguing both in good faith, and keeping my sources straight instead of leaning on fallacies. I am a post-left anarchist and a left accelerationist, and a non-theistic Satanist in the Nietzschean tradition, which mostly means I take self-overcoming seriously and I do not accept systems that hide how they work.
+
+**Computers are the other half.** Self-taught, and mostly interested in operating systems, OSINT, DevOps and sysadmin work. I learn by building the tool I wanted and then documenting it properly, which is exactly how OpenBeats happened. Nothing ships because a suggestion looked plausible: every change gets read, tested and debugged before a release.
+
+**Off the keyboard:** guitar, AESPA, cars, animals, and far too many open papers.
 
 ## projects
 
@@ -44,14 +59,19 @@ pairing/     Claude  Freebuff  DeepSeek
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,lua,c,cpp" alt="TypeScript, JavaScript, Python, Lua, C, C++" />
-  <img src="https://skillicons.dev/icons?i=react,nodejs,vite,tauri,rust" alt="React, Node.js, Vite, Tauri, Rust" />
-  <img src="https://skillicons.dev/icons?i=linux,arch,bash,cmake,docker,sqlite" alt="Linux, Arch, Bash, CMake, Docker, SQLite" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,vite,tauri,rust,sqlite" alt="React, Node.js, Vite, Tauri, Rust, SQLite" />
+  <img src="https://skillicons.dev/icons?i=arch,linux,bash,git,github,docker,cmake" alt="Arch, Linux, Bash, Git, GitHub, Docker, CMake" />
 </p>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=claude" height="48" alt="Claude" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=deepseek" height="48" alt="DeepSeek" />
-  <img src="https://img.shields.io/badge/Freebuff-b48ab6?style=flat" height="28" alt="Freebuff" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscodium,vim,neovim,kitty" height="44" alt="VSCodium, Vim, Neovim, kitty" />
+  <img src="https://img.shields.io/badge/zsh-b48ab6?style=flat" height="26" alt="zsh" />
+</p>
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=claude" height="44" alt="Claude" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=deepseek" height="44" alt="DeepSeek" />
+  <img src="https://img.shields.io/badge/Freebuff-1a0f1e?style=flat&logoColor=d8b8da" height="26" alt="Freebuff" />
 </p>
 
 ## activity
@@ -65,4 +85,4 @@ pairing/     Claude  Freebuff  DeepSeek
   <img src="https://raw.githubusercontent.com/blsphmicwillow/blsphmicwillow/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph" />
 </p>
 
-<p align="center"><sub>operating systems and the tools around them. say hi at <a href="https://ashesofmodernity.dev">ashesofmodernity.dev</a>.</sub></p>
+<p align="center"><sub><a href="https://ashesofmodernity.dev">ashesofmodernity.dev</a> · <a href="https://bsky.app/profile/blsphmicwillow.satan.social">bluesky</a> · <a href="https://x.com/blsphmicwillow">x</a> · <a href="https://steamcommunity.com/id/blswillow/">steam</a></sub></p>
