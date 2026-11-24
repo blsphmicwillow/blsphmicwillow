@@ -1,84 +1,68 @@
 <div align="center">
 
-# ⚸ Willow ⛧
+<h1>⚸ Willow ⛧</h1>
 
-<a href="https://ashesofmodernity.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=B48AB6&center=true&vCenter=true&width=620&lines=Science+nerd+%E2%86%92+Computer+Science;Operating+systems+%26+low-level+code;Open+source%2C+built+and+shipped" alt="Science nerd → Computer Science · Operating systems & low-level code · Open source, built and shipped" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1600&color=B48AB6&center=true&vCenter=true&width=460&height=70&lines=techno-anarchist" alt="techno-anarchist" />
 
-**Science nerd moving into Computer Science — operating systems, low-level code and open source.**
-
-[![Personal site](https://img.shields.io/badge/ashesofmodernity.dev-1a0f1e?style=flat-square&logo=firefoxbrowser&logoColor=d8b8da)](https://ashesofmodernity.dev)
-[![OpenBeats release](https://img.shields.io/github/v/release/blsphmicwillow/OpenBeats?style=flat-square&label=OpenBeats&color=ffa31a)](https://github.com/blsphmicwillow/OpenBeats/releases/latest)
-[![OpenBeats stars](https://img.shields.io/github/stars/blsphmicwillow/OpenBeats?style=flat-square&label=stars&color=b48ab6)](https://github.com/blsphmicwillow/OpenBeats)
+<sub><a href="https://ashesofmodernity.dev">ashesofmodernity.dev</a></sub>
 
 </div>
 
-```ts
-const willow = {
-  handle: "blsphmicwillow",
-  studying: ["operating systems", "systems programming", "computer science"],
-  languages: ["TypeScript", "JavaScript", "Python", "Lua", "C", "C++"],
-  building: "OpenBeats — an open-source beatmaking studio for the desktop",
-  pairsWith: ["Claude", "Freebuff", "DeepSeek"], // tools, not autopilot
-  site: "https://ashesofmodernity.dev",
-} as const;
+```console
+willow@ashesofmodernity:~$ whoami
+science nerd moving into computer science: operating systems, systems
+programming and open source. i build the tools i want to use, then ship them.
+
+willow@ashesofmodernity:~$ ls ~/stack
+languages/   TypeScript  JavaScript  Python  Lua  C  C++
+build/       React  Node  Vite  Tauri  Rust  SQLite
+system/      Linux (Arch)  Bash  CMake  Docker  GitHub Actions
+pairing/     Claude  Freebuff  DeepSeek
 ```
 
-## What I'm building
+## projects
 
-### [OpenBeats](https://github.com/blsphmicwillow/OpenBeats) · open-source beatmaking studio
-
-Channel rack, step sequencer, piano roll, playlist and mixer for **Linux, Windows and macOS**. A Rust/Tauri desktop shell with a native Rust/CPAL audio engine, and a React + Web Audio front end that still runs in the browser.
-
-`GPL-3.0` · `TypeScript` `Rust` `React` `Tauri` · **[Download v1.1.0 →](https://github.com/blsphmicwillow/OpenBeats/releases/latest)**
-
-### [ashesofmodernity.dev](https://github.com/blsphmicwillow/ashesofmodernity.dev) · personal site
-
-Hand-written HTML and CSS on GitHub Pages — no framework, no build step, and a small corner of the internet that is mine. **[Visit the site →](https://ashesofmodernity.dev)**
+| repo | what it is | stack |
+| :-- | :-- | :-- |
+| **[OpenBeats](https://github.com/blsphmicwillow/OpenBeats)** | Open-source beatmaking studio for Linux, Windows and macOS. Channel rack, step sequencer, piano roll, playlist and mixer, running on a native Rust/CPAL engine with a React + Web Audio front end. | `TypeScript` `Rust` `React` `Tauri` |
+| **[ashesofmodernity.dev](https://github.com/blsphmicwillow/ashesofmodernity.dev)** | My personal site. Hand-written HTML and CSS on GitHub Pages, no framework and no build step. | `HTML` `CSS` |
 
 <details>
-<summary><b>Also in the workshop</b> · private for now</summary>
+<summary><b>private builds</b></summary>
 
 <br>
 
-- **WTree** — a privacy-first Discord AI assistant. Provider failover across OpenRouter, Groq, Cloudflare Workers AI and local Ollama behind a privacy allowlist; conversations stay in RAM and die with the process, and the accessibility/reference tools run locally.
-- **Kardex** — a self-hosted K-Pop photocard collecting game for Discord. 7,800+ cards across 32 groups, named binders, wishlists, atomic card trading and a per-server player market, all in one SQLite file.
-- **Cockpit** — a Discord server-management bot whose entire dashboard lives inside Discord. Spec-first: recon, full technical specification and security model before the build.
+| project | what it does |
+| :-- | :-- |
+| **WTree** | Privacy-first Discord AI assistant. Provider failover across OpenRouter, Groq, Cloudflare Workers AI and local Ollama, all behind a privacy allowlist, with conversations that stay in RAM and die with the process. |
+| **Kardex** | Self-hosted K-Pop photocard game for Discord. 7,800+ cards across 32 groups, named binders, wishlists, atomic card trades and a per-server player market, all in one SQLite file. |
+| **Cockpit** | Discord server-management bot with the entire dashboard inside Discord. Spec first: recon, full technical specification, security model, then the build. |
 
 </details>
 
-## Toolbox
-
-**Languages**
-
-![Languages](https://skillicons.dev/icons?i=ts,js,python,lua,c,cpp)
-
-**Web & desktop**
-
-![Web & desktop](https://skillicons.dev/icons?i=react,nodejs,vite,html,css,tauri)
-
-**Systems & tooling**
-
-![Systems & tooling](https://skillicons.dev/icons?i=rust,cmake,bash,linux,arch,git,github,docker,sqlite)
-
-**AI pair-programmers**
-
-![Claude](https://go-skill-icons.vercel.app/api/icons?i=claude)
-![DeepSeek](https://go-skill-icons.vercel.app/api/icons?i=deepseek)
-![Freebuff](https://img.shields.io/badge/Freebuff-2b2b3a?style=flat-square&logoColor=white)
-
-## GitHub
+## stack
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=blsphmicwillow&show_icons=true&hide_border=true&include_all_commits=true&title_color=b48ab6&icon_color=b48ab6&text_color=c9bfcb&bg_color=0e0a10" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blsphmicwillow&layout=compact&hide_border=true&title_color=b48ab6&text_color=c9bfcb&bg_color=0e0a10" alt="Top languages" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,lua,c,cpp" alt="TypeScript, JavaScript, Python, Lua, C, C++" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,vite,tauri,rust" alt="React, Node.js, Vite, Tauri, Rust" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,bash,cmake,docker,sqlite" alt="Linux, Arch, Bash, CMake, Docker, SQLite" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/blsphmicwillow/blsphmicwillow/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=claude" height="48" alt="Claude" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=deepseek" height="48" alt="DeepSeek" />
+  <img src="https://img.shields.io/badge/Freebuff-b48ab6?style=flat" height="28" alt="Freebuff" />
 </p>
 
-<div align="center">
-<sub>Operating systems, low-level code and the occasional DAW. Say hi at <a href="https://ashesofmodernity.dev">ashesofmodernity.dev</a>.</sub>
-</div>
+## activity
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=blsphmicwillow&show_icons=true&hide_border=true&include_all_commits=true&title_color=b48ab6&icon_color=b48ab6&text_color=c9bfcb&bg_color=0e0a10" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blsphmicwillow&layout=compact&hide_border=true&title_color=b48ab6&text_color=c9bfcb&bg_color=0e0a10" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/blsphmicwillow/blsphmicwillow/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph" />
+</p>
+
+<p align="center"><sub>operating systems and the tools around them. say hi at <a href="https://ashesofmodernity.dev">ashesofmodernity.dev</a>.</sub></p>
