@@ -58,7 +58,6 @@ Hand-written HTML and CSS on GitHub Pages. No framework, no build step, nothing 
 
 <p>
   <img src="https://img.shields.io/website?url=https%3A%2F%2Fashesofmodernity.dev&label=site&up_message=online&down_message=offline&style=flat&labelColor=1a0f1e&color=b48ab6&logo=firefoxbrowser&logoColor=white&cacheSeconds=1800" alt="Site status" />
-  <img src="https://img.shields.io/github/last-commit/blsphmicwillow/ashesofmodernity.dev?label=last%20commit&style=flat&labelColor=1a0f1e&color=b48ab6&logo=github&logoColor=white" alt="Last commit" />
 </p>
 
 <details>
