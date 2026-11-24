@@ -2,7 +2,7 @@
 
 <h1>⚸ Willow ⛧</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1400&color=B48AB6&center=true&vCenter=true&width=580&height=64&lines=Techno-Anarchist;Socialising+Computer+Science;Biology+nerd" alt="Techno-Anarchist, Socialising Computer Science, Biology nerd" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1400&color=B48AB6&center=true&vCenter=true&width=580&height=64&lines=Techno-Anarchist" alt="Techno-Anarchist" />
 
 <sub>philosophy, theology and CS hobbyist</sub>
 
