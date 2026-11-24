@@ -96,8 +96,8 @@ Guitar, AESPA, cars, animals, comics, and more open papers than I will ever fini
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=blsphmicwillow&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=b48ab6&icon_color=b48ab6&text_color=c9bfcb" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=blsphmicwillow&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=b48ab6&icon_color=b48ab6&text_color=514b56" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=blsphmicwillow&show_icons=true&hide_border=true&bg_color=00000000&title_color=b48ab6&icon_color=b48ab6&text_color=c9bfcb" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=blsphmicwillow&show_icons=true&hide_border=true&bg_color=00000000&title_color=b48ab6&icon_color=b48ab6&text_color=514b56" alt="GitHub stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=blsphmicwillow&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=b48ab6&text_color=c9bfcb" />
