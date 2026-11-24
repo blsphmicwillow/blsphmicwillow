@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1400&color=B48AB6&center=true&vCenter=true&width=580&height=64&lines=Techno-Anarchist;Socialising+Computer+Science;Biology+nerd" alt="Techno-Anarchist, Socialising Computer Science, Biology nerd" />
 
-<sub>biology, theology, and the operating system underneath</sub>
+<sub>philosophy, theology and CS hobbyist</sub>
 
 </div>
 
@@ -51,7 +51,7 @@ Arch has been my main system since September 2025. zsh in kitty, and the editor 
   <sub><i>with AI in the loop</i></sub>
 </p>
 
-I use Claude, Freebuff and DeepSeek while I work. I still read what comes back and change most of it. Anything in a repo here has been run, broken at least once, and fixed before it went up.
+I use Claude, Freebuff and DeepSeek while I work. I still read what comes back and change most of it. Anything in a repo here has been run, broken at least once, and fixed before it went up, I support AI-assisted coding and I am very open with the idea.
 
 ## What I am building
 
@@ -70,7 +70,7 @@ Channel rack, step sequencer, piano roll, playlist and mixer, running on a nativ
 ### [ashesofmodernity.dev](https://github.com/blsphmicwillow/ashesofmodernity.dev)
 *My personal site.*
 
-Hand-written HTML and CSS on GitHub Pages. No framework, no build step, nothing between me and the page.
+Hand-written HTML and CSS on GitHub Pages.
 
 <p>
   <img src="https://img.shields.io/website?url=https%3A%2F%2Fashesofmodernity.dev&label=site&up_message=online&down_message=offline&style=flat&labelColor=1a0f1e&color=b48ab6&logo=firefoxbrowser&logoColor=white&cacheSeconds=1800" alt="Site status" />
@@ -83,9 +83,9 @@ Hand-written HTML and CSS on GitHub Pages. No framework, no build step, nothing 
 
 **WTree** is a privacy-first Discord AI assistant: provider failover across OpenRouter, Groq, Cloudflare Workers AI and local Ollama behind a privacy allowlist, with conversations that live in RAM and die with the process.
 
-**Kardex** is a self-hosted K-Pop photocard game for Discord: 7,800+ cards across 32 groups, binders, wishlists, atomic trades and a per-server market, all in one SQLite file.
+**Kardex** is a self-hosted K-Pop photocard game for Discord: 7,800+ cards across 32 groups, binders, wishlists, atomic trades and a per-server market.
 
-**Cockpit** is a Discord server-management bot with the entire dashboard inside Discord. Specification first, then the build.
+**Cockpit** is a Discord server-management bot with the entire dashboard inside Discord. Inspired on Peakbot.
 
 </details>
 
@@ -101,11 +101,9 @@ I am a post-left anarchist with a socialist streak I keep on purpose: Malatesta'
 
 Theologically I am a Vampyric Satanist in the Nietzschean tradition, non-theistic: no personal god, a divine substrate instead, and self-overcoming as the actual work. I read Nietzsche for the same reason I read politics, which is to have better arguments.
 
-I try to argue without fallacies and to name my bias instead of pretending I have none, because most of the bad arguments I meet are confident ones.
-
 ## Off the clock
 
-Guitar, AESPA, cars, animals, comics, and more open papers than I will ever finish. Portuguese and English, with French kept alive on the side.
+Guitar, kpop, cars, animals, comics, and spending time with my girlfriend. I speak Portuguese, French & English.
 
 ## On GitHub
 
