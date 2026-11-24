@@ -14,9 +14,9 @@ I am Willow. I read science and religion for my own reasons, write down what I f
 
 ## What I know
 
-TypeScript and JavaScript are what I write most days. Python when a script should do the work, Lua when something wants extending, C and C++ when the distance to the metal actually matters.
+I mostly write TypeScript and JavaScript, which is what most of my projects turn into whether I planned it or not. Python is for scripts and quick tests. Lua shows up when I am poking at something that embeds it, and C or C++ when I need to actually care what the machine does with the memory.
 
-It all runs on Arch Linux, my daily driver since September 2025. The shell is zsh, the terminal is kitty, and the editor depends on the size of the idea: VSCodium for a project, Neovim and Vim for a thought that only needs a quick fix. Around the edges, React and Vite on the front end, Tauri and Rust when a web app has to become a desktop one, SQLite when the data should just live in a file, Docker and GitHub Actions for anything that repeats.
+Arch has been my main system since September 2025. zsh in kitty, and the editor depends on the size of the job: VSCodium if I will be in the file for a while, Neovim or Vim for something small. The rest is the usual pile. React and Vite for interfaces, Tauri and Rust when something has to be a real desktop app, SQLite because it beats running a database server for one table, Docker and GitHub Actions so I do not have to remember how I built something last time.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,lua,c,cpp" alt="TypeScript, JavaScript, Python, Lua, C, C++" />
@@ -35,7 +35,7 @@ It all runs on Arch Linux, my daily driver since September 2025. The shell is zs
   <img src="https://img.shields.io/badge/Freebuff-1a0f1e?style=flat&logoColor=d8b8da" height="24" alt="Freebuff" />
 </p>
 
-I build with Claude, Freebuff and DeepSeek in the loop, then read, test and debug whatever comes back. Nothing here ships because a suggestion sounded plausible.
+I use Claude, Freebuff and DeepSeek while I work. I still read what comes back and change most of it. Anything in a repo here has been run, broken at least once, and fixed before it went up.
 
 ## What I am building
 
@@ -64,9 +64,9 @@ Hand-written HTML and CSS on GitHub Pages. No framework, no build step, nothing 
 
 ## What I wish to do
 
-Music first. I play guitar, and the plan I keep coming back to is ending up in the industry, either making it or close enough to hear it being made. Fashion is the second, as a model or on the design side.
+I play guitar, and I would like to end up in the music industry one way or another, either playing or working close to the people who do. Fashion pulls at me too, as a model or on the design side.
 
-The third is the one this page is for: research and teaching in the sciences, with operating systems and open source as the corner I keep returning to. I would rather be the person who explains a thing clearly than the person who knows it quietly.
+What I am really aiming at is research and teaching in the sciences, with operating systems and open source as the corner I keep coming back to. I like explaining things to people who want to hear it, and I would rather do that for a living than keep it to myself.
 
 ## My views
 
