@@ -46,9 +46,8 @@ Arch has been my main system since September 2025. zsh in kitty, and the editor 
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=claude" height="40" alt="Claude" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=deepseek" height="40" alt="DeepSeek" />
-  <img src="https://img.shields.io/badge/Freebuff-1a0f1e?style=flat&logoColor=d8b8da" height="24" alt="Freebuff" />
   <br />
-  <sub><i>with AI in the loop</i></sub>
+  <sub><i>with AI assistance</i></sub>
 </p>
 
 I use Claude, Freebuff and DeepSeek while I work. I still read what comes back and change most of it. Anything in a repo here has been run, broken at least once, and fixed before it went up, I support AI-assisted coding and I am very open with the idea.
